@@ -1,0 +1,33 @@
+html, body {
+	background-color: black;
+	color: white;
+	font-family: sans;
+}
+
+#content-block {
+	width: 60%;
+	background-color: #36a449;
+	color: black;
+	border-radius: 7px;
+	padding: 5px;
+}
+
+#title {
+	color: #1616cc;
+	text-shadow: 0px 0px 20px blue;
+}
+
+#subtitle {
+	font-size: 90%;
+	color: #3d3d3d;
+}
+
+footer {
+	margin-top: 10px;
+	text-align: center;
+}
+
+iframe {
+	width: 100%;
+	border: none;
+}
