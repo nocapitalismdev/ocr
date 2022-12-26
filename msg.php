@@ -1,3 +1,9 @@
+<style>
+        body {
+                display: block;
+                word-break: break-all;
+        }
+</style>
 <?php
 
         require_once('config.php');
