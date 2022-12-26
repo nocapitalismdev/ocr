@@ -30,4 +30,5 @@ footer {
 iframe {
 	width: 100%;
 	border: none;
+	word-wrap: break-word;
 }
